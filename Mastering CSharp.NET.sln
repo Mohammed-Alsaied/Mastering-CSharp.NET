@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mastering CSharp.NET", "Mastering CSharp.NET\Mastering CSharp.NET.csproj", "{DDD480E3-A968-4A8B-AD17-CBC423B9E778}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[025] Exceptions", "[025] Exceptions", "{B6209450-A801-425B-921F-479603C9426D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[025] Exceptions", "Exceptions\[025] Exceptions.csproj", "{20431F78-0826-4C7D-BDDA-BE77C683E887}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DDD480E3-A968-4A8B-AD17-CBC423B9E778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DDD480E3-A968-4A8B-AD17-CBC423B9E778}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DDD480E3-A968-4A8B-AD17-CBC423B9E778}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DDD480E3-A968-4A8B-AD17-CBC423B9E778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20431F78-0826-4C7D-BDDA-BE77C683E887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20431F78-0826-4C7D-BDDA-BE77C683E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20431F78-0826-4C7D-BDDA-BE77C683E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20431F78-0826-4C7D-BDDA-BE77C683E887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20431F78-0826-4C7D-BDDA-BE77C683E887} = {B6209450-A801-425B-921F-479603C9426D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B6AE85F0-B13E-403F-9936-E43AFE78F7EE}
