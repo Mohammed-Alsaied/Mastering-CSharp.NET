@@ -73,7 +73,7 @@
 #endregion
 
 #region Bit Converter & Values
-//var number = 255;
+///var number = 255;
 //var number = 10;
 
 //var bytes = BitConverter.GetBytes(number);
