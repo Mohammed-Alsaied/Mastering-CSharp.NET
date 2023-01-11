@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_027__XML_Documentation</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>D:\Cooding\C# Practise\عصام عبد النبي\Mastering C#.NET\[027] XML Documentation\XML Documentation.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
